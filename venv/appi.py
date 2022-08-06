@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # loading the saved model
-loaded_model = pickle.load(open(r"C:\Users\hp\Downloads\trained_model.sav", 'rb'))
+loaded_model = pickle.load(open(r"trained_model.sav", 'rb'))
 
 
 # creating a function for Prediction
