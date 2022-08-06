@@ -1,1 +1,5 @@
 streamlit==1.11.1
+pickleshare==0.7.5
+pandas==1.4.3
+numpy==1.23.1
+sklearn==0.0
